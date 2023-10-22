@@ -19,8 +19,8 @@ namespace Tyuiu.IsaevMA.Sprint3.Task1.V17
             Console.WriteLine("**********************************************************************************************************************");
             Console.WriteLine("* Спринт #3                                                                                                          *");
             Console.WriteLine("* Тема: Оператор цикла for                                                                                           *");
-            Console.WriteLine("* Задание #0                                                                                                         *");
-            Console.WriteLine("* Вариант #26                                                                                                        *");
+            Console.WriteLine("* Задание #1                                                                                                         *");
+            Console.WriteLine("* Вариант #17                                                                                                        *");
             Console.WriteLine("* Выполнил: Исаев Максим Александрович | ACOиУБ-23-3                                                                 *");
             Console.WriteLine("**********************************************************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                                                           *");
