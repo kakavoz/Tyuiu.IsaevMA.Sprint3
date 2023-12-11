@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D9142BFE-0142-46ED-A43B-C9F01A1AA185}</ProjectGuid>
+    <ProjectGuid>{F11EBA57-FBF9-4E6C-A96C-44A3E232283E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Tyuiu.IsaevMA.Sprint3.Task6.V5.Lib</RootNamespace>
-    <AssemblyName>Tyuiu.IsaevMA.Sprint3.Task6.V5.Lib</AssemblyName>
+    <RootNamespace>Tyuiu.IsaevMA.Sprint3.SprintReview.V27.Lib</RootNamespace>
+    <AssemblyName>Tyuiu.IsaevMA.Sprint3.SprintReview.V27.Lib</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -39,6 +39,9 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="tyuiu.cources.programming.interfaces">
+      <HintPath>..\..\tyuiu.cources.programming.interfaces.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataService.cs" />

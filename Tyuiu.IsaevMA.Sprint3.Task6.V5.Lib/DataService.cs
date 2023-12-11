@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tyuiu.IsaevMA.Sprint3.Task5.V5.Lib
+namespace Tyuiu.IsaevMA.Sprint3.Task6.V5.Lib
 {
-    public class Class1
+    public class DataService
     {
     }
 }

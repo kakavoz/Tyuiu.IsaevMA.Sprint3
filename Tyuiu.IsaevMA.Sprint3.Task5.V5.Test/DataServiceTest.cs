@@ -4,7 +4,7 @@ using System;
 namespace Tyuiu.IsaevMA.Sprint3.Task5.V5.Test
 {
     [TestClass]
-    public class UnitTest1
+    public class DataServiceTest
     {
         [TestMethod]
         public void TestMethod1()
